@@ -180,7 +180,7 @@ section {
   margin: auto 0;
 }
 
-.section__pic-container img {
+.section__pic-container img.profile {
   border-radius: 50%;
 }
 
