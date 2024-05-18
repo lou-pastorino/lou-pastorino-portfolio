@@ -405,6 +405,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    padding-top: 8rem;
     }
 
 .contact-info-upper-container {
